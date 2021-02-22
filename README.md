@@ -16,4 +16,6 @@ python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 python main.py bits(8 or 16) path_of_folder/
+** sample of running command**
+python main.py 8 /home/rasters/
 ```
