@@ -3,10 +3,10 @@
 Script to create a raster mosaic considering files inside of a specific folder.
 
 ## Como desenvolver?
-- Clone o repositório.
-- Crie um virtualenv com Python 3.7
-- Ative o virtualenv.
-- Instale as dependências.
+- Clone repo.
+- Create a python 3.7 virtualenv
+- Activate virtualenv.
+- Install dependencies.
 
 ## Códigos
 ```
